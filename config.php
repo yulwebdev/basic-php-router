@@ -1,7 +1,7 @@
 <?php
 
 	// URI
-	define("URI", "http://localhost/router");
+	define("URI", "http://example.com/");
 	
 	// homepage
 	define("HOME", "home");
